@@ -87,8 +87,10 @@ numeros = [1, 2, 3, 4, 5]
 ```
 
 # Comprensión de listas
+```python
 cuadrados = [n**2 for n in numeros]
 print(cuadrados)  # Output: [1, 4, 9, 16, 25]
+```
 
 ---
 
