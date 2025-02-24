@@ -13,3 +13,27 @@ Python fue creado por **Guido van Rossum** a finales de los años 80 y lanzado p
 
 ---
 
+## 2. Campo de Aplicación
+Python es un lenguaje extremadamente versátil, utilizado en una amplia variedad de campos:
+
+- **Ciencia de Datos y Machine Learning**:
+  - Bibliotecas como **Pandas**, **NumPy**, **Scikit-learn**, **TensorFlow** y **PyTorch**.
+  - Ejemplos de uso: **Google**, **Netflix**, **Spotify**.
+
+- **Desarrollo Web**:
+  - Frameworks como **Django**, **Flask** y **FastAPI**.
+  - Ejemplos de uso: **Instagram**, **Pinterest**, **Dropbox**.
+
+- **Automatización y Scripting**:
+  - Ideal para tareas repetitivas y manipulación de archivos.
+  - Ejemplos de uso: **Ansible**.
+
+- **Computación Científica y Visualización**:
+  - Bibliotecas como **Matplotlib**, **Seaborn** y **SciPy**.
+  - Ejemplos de uso: **NASA**, **CERN**.
+
+**Documentación Oficial**: [Aplicaciones de Python](https://www.python.org/about/apps/)
+
+---
+
+
