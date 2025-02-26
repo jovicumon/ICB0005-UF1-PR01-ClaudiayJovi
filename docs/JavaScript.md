@@ -22,6 +22,8 @@ JavaScript fue creado en 1995 por Brendan Eich, un ingeniero de Netscape, con el
 - [La historia completa de JavaScript, el único lenguaje que entienden los navegadores](https://ed.team/blog/la-historia-completa-de-javascript-el-unico-lenguaje-que-entienden-los-navegadores) (Leanlo que está muy chulo)
 - [Qué es JavaScript](https://openwebinars.net/blog/que-es-javascript/)
 
+---
+
 ## 2. Campo de Aplicación
 
 JavaScript es el lenguaje más utilizado en la web y se aplica en:
@@ -52,6 +54,8 @@ JavaScript es el lenguaje más utilizado en la web y se aplica en:
 
 **Documentación Oficial MDN**: [Casos de Uso de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
+---
+
 ## 3. Tipado de Variables y Paradigmas
 
 - **Tipado Débil y Dinámico**: No es necesario declarar tipos (var a = 5; a = "Hola"; es válido).
@@ -65,6 +69,8 @@ JavaScript es el lenguaje más utilizado en la web y se aplica en:
   - **Asíncrono** (event loop, callbacks, promesas y async/await).
 
 **Documentación Oficial**: [Guía de Tipado en JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures)
+
+---
 
 ## 4. Curiosidades
 
@@ -97,6 +103,7 @@ JavaScript es el lenguaje más utilizado en la web y se aplica en:
 ### h) **Solo uno puede sobrevivir... ah que aún están los dos**
 -  JavaScript puso en guerra a dos empresas enormes y gracias a el se crearon Firefox y Google Chrome.
 
+---
 
 ## 5. IDEs y Herramientas
 
@@ -107,6 +114,8 @@ JavaScript es el lenguaje más utilizado en la web y se aplica en:
 - **ESLint** ([Sitio Oficial](https://eslint.org/)): Herramienta para detectar errores en el código.
 
 - **Parcel** ([Sitio Oficial](https://es.parceljs.org/)) y **Webpack** ([Sitio Oficial](https://webpack.js.org/)): Empaquetadores de módulos modernos.
+
+---
 
 ## 6. Frameworks y Bibliotecas
 
@@ -120,6 +129,8 @@ JavaScript es el lenguaje más utilizado en la web y se aplica en:
 
 - **Express.js** ([Sitio Oficial](https://expressjs.com/)): Framework ligero para backend en Node.js.
 
+---
+
 ## 7. Empresas e Instituciones Clave
 
 - **Google**: Desarrolló el motor V8 y frameworks como Angular.
@@ -129,6 +140,8 @@ JavaScript es el lenguaje más utilizado en la web y se aplica en:
 - **Mozilla**: Desarrollador del motor SpiderMonkey y Firefox.
 
 **Documentación Oficial**: [JavaScript en Mozilla]()
+
+---
 
 ## 8. Versiones y Estándares
 
@@ -241,6 +254,8 @@ Para poder estandarizar JavaScript Netscape envía su código de JavaScript (su 
 
 **Otra documentación consultada**: [La especificación ECMAScript](https://lenguajejs.com/javascript/introduccion/ecmascript/)
 
+---
+
 ## 9. Características Destacables
 
 - **Interpretado**: No necesita compilación previa, se ejecuta directamente en el navegador.
@@ -254,6 +269,8 @@ Para poder estandarizar JavaScript Netscape envía su código de JavaScript (su 
 - **Comunidad Activa**: Uno de los lenguajes con mayor cantidad de repositorios en GitHub.
 
 **Documentación Oficial**: [JavaScript en MDN]()
+
+---
 
 ## 10. Enlaces Externos
 
