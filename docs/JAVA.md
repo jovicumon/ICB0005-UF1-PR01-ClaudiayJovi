@@ -15,6 +15,34 @@ Java fue creado por **James Gosling** y su equipo en **Sun Microsystems** a prin
 **Documentación Oficial**: [Historia de Java](https://www.oracle.com/es/java/)
 
 ---
+
+
+## 2. Campo de Aplicación
+Java es un pilar en la industria tecnológica, utilizado en:
+
+- **Aplicaciones Empresariales**:
+  - **Spring Framework**: Dominante en sistemas bancarios, ERP (SAP) y comercio electrónico.
+  - Ejemplos: **Airbnb**, **Uber** (backend), **NASA World Wind** (visualización de datos geoespaciales).
+
+- **Desarrollo Android**:
+  - Aunque Kotlin es ahora el lenguaje preferido para Android, Java sigue siendo ampliamente usado.
+  - Ejemplos: **Spotify**, **Twitter**, **Signal** (partes de su código base).
+
+- **Big Data**:
+  - **Apache Hadoop** y **Apache Spark** (procesamiento distribuido) están escritos en Java.
+  - Ejemplos: **Netflix** (análisis de datos de usuarios), **LinkedIn** (recomendaciones).
+
+- **Internet de las Cosas (IoT)**:
+  - **Java ME Embedded** y **Eclipse IoT** se usan en dispositivos como sensores industriales y wearables.
+
+- **Videojuegos**:
+  - **Minecraft** (la versión original fue escrita en Java).
+  - **LibGDX**: Framework para desarrollo de juegos multiplataforma.
+
+**Documentación Oficial**: [Casos de Uso de Java](https://www.oracle.com/java/technologies/industries.html)
+
+---
+
 ## 3. Tipado de Variables y Paradigmas
 - **Tipado Estático y Fuerte**: Las variables deben declararse con su tipo (ej: `int numero = 5;`), y no se permiten operaciones entre tipos incompatibles.
 - **Paradigmas**:
