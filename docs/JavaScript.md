@@ -20,7 +20,7 @@ JavaScript fue creado en 1995 por Brendan Eich, un ingeniero de Netscape, con el
 
 **Documentación Consultada**: 
 - [La historia completa de JavaScript, el único lenguaje que entienden los navegadores](https://ed.team/blog/la-historia-completa-de-javascript-el-unico-lenguaje-que-entienden-los-navegadores) (Leanlo que está muy chulo)
-- [Qué es JavaScript](https://openwebinars.net/blog/que-es-javascript/)
+- [MDN Acerca de JavaScript](https://developer.mozilla.org/es/docs/conflicting/Web/JavaScript)
 
 ---
 
@@ -146,20 +146,6 @@ JavaScript es el lenguaje más utilizado en la web y se aplica en:
 ## 8. Versiones y Estándares
 
 Para poder estandarizar JavaScript Netscape envía su código de JavaScript (su especificación) a **ecma**, una organización europea que se encarga de hacer estándares de tecnologías. Para el año 1997, ecma lanzó la primera versión de su estándar, llamado ECMAScript 1.
-
-- **ECMAScript 1 (1997)**:
-
-- **ECMAScript 2 (1998)**:
-
-- **ECMAScript 3 (1999)**: Soporte de expresiones regulares. Nuevas sentencias de control. Manejo de excepciones (bloque try-catch). Definición de errores más precisa. Formateo de salidas numéricas de datos. Manejo de strings más avanzado.
-
-- **ECMAScript 4**: Nunca salió... y pasaron ¡10 años! hasta la siguiente. ([ECMAScript 4: The missing version](https://evertpot.com/ecmascript-4-the-missing-version/))
-
-- **ECMAScript 5 (2009)**: JSON nativo, strict mode, nuevos métodos de arrays.
-
-- **ECMAScript 6 (2015)**: let, const, clases, promesas, arrow functions.
-
-- **ECMAScript 2017+**: async/await, optional chaining, nullish coalescing.
 
 ### Evolución de ECMAScript (ES) desde 1997 hasta 2025
 **ECMAScript 1 (1997)**:
