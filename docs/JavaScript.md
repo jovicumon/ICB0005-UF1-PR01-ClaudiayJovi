@@ -19,7 +19,7 @@ JavaScript fue creado en 1995 por Brendan Eich, un ingeniero de Netscape, con el
     - **2023**: Las versiones modernas siguen evolucionando con nuevas features anuales.
 
 **Documentación Consultada**: 
-- [La historia completa de JavaScript, el único lenguaje que entienden los navegadores](https://ed.team/blog/la-historia-completa-de-javascript-el-unico-lenguaje-que-entienden-los-navegadores)
+- [La historia completa de JavaScript, el único lenguaje que entienden los navegadores](https://ed.team/blog/la-historia-completa-de-javascript-el-unico-lenguaje-que-entienden-los-navegadores) (Leanlo que está muy chulo)
 - [Qué es JavaScript](https://openwebinars.net/blog/que-es-javascript/)
 
 ## 2. Campo de Aplicación
@@ -148,7 +148,119 @@ Para poder estandarizar JavaScript Netscape envía su código de JavaScript (su 
 
 - **ECMAScript 2017+**: async/await, optional chaining, nullish coalescing.
 
+### Evolución de ECMAScript (ES) desde 1997 hasta 2025
+**ECMAScript 1 (1997)**:
+  - Primera versión del estándar basado en JavaScript de Netscape.
+  - Introducción de las funciones básicas, operadores y estructuras de control.
+
+**ECMAScript 2 (1998)**:
+  - Pequeñas modificaciones y correcciones para alinearse con ISO/IEC 16262.
+
+**ECMAScript 3 (1999)**:
+  - Soporte de expresiones regulares.
+  - Manejo de excepciones (try-catch).
+  - Definición más precisa de errores.
+  - Métodos avanzados para strings (trim, replace, match, etc.).
+  - Formateo de salidas numéricas (toFixed, toExponential).
+
+**ECMAScript 4 (Cancelado)**:
+  - Nunca fue lanzado oficialmente.
+  - Propuso cambios radicales, como un fuerte sistema de tipos, pero fue abandonado debido a diferencias entre Microsoft y otros actores clave.
+  - Más información en ([ECMAScript 4: The missing version](https://evertpot.com/ecmascript-4-the-missing-version/))
+
+**ECMAScript 5 (2009)**:
+  - Soporte nativo de JSON (JSON.parse, JSON.stringify).
+  - Modo estricto ("use strict";) para evitar errores comunes.
+  - Nuevos métodos para arrays (forEach, map, filter, reduce).
+  - Métodos para Object (Object.keys, Object.create).
+
+**ECMAScript 6 (ES6) - 2015**:
+  - Introducción de let y const.
+  - Clases (class) y herencia (extends).
+  - Funciones flecha (()=>{}).
+  - Desestructuración (const {x, y} = objeto;).
+  - Módulos (import/export).
+  - Promesas (Promise) para manejar asincronía.
+  - Template literals con backticks (`Hola ${nombre}`).
+  - Parámetros por defecto y el operador rest (...args).
+
+**ECMAScript 2016 (ES7)**:
+  - Array.prototype.includes() para buscar elementos en arrays.
+  - Operador de exponenciación (**), equivalente a Math.pow().
+
+**ECMAScript 2017 (ES8)**:
+  - async/await, facilitando el manejo de asincronía.
+  - Object.entries() y Object.values() para trabajar con objetos.
+  - String.prototype.padStart() y padEnd() para formateo de strings.
+
+**ECMAScript 2018 (ES9)**:
+  - Rest/Spread en objetos ({...obj}).
+  - Promise.prototype.finally().
+  - Mejoras en expresiones regulares (dotAll flag s).
+
+**ECMAScript 2019 (ES10)**:
+  - Array.prototype.flat() y flatMap() para manipulación de arrays anidados.
+  - Object.fromEntries() (inverso de Object.entries()).
+  - String.prototype.trimStart() y trimEnd().
+  - Mejor manejo de catch (try { ... } catch {} sin parámetro de error).
+
+**ECMAScript 2020 (ES11)**:
+  - Encadenamiento opcional (?.) para acceder a propiedades sin errores (obj?.prop).
+  - Operador de fusión nula (??) para valores nulos o undefined.
+  - Promise.allSettled().
+  - Imports dinámicos (import()) para carga de módulos bajo demanda.
+  - BigInt (123n), permitiendo números mayores a Number.MAX_SAFE_INTEGER.
+
+**ECMAScript 2021 (ES12)**:
+  - String.prototype.replaceAll().
+  - Métodos privados en clases (#propiedadPrivada).
+  - Separadores numéricos (1_000_000 en vez de 1000000).
+  - Promesas con any() (Promise.any()).
+
+**ECMAScript 2022 (ES13)**:
+  - Object.hasOwn(obj, prop), alternativa más segura a obj.hasOwnProperty(prop).
+  - Top-level await, permitiendo await fuera de async function.
+  - Mejoras en parámetros de catch.
+
+**ECMAScript 2023 (ES14)**:
+  - Métodos findLast() y findLastIndex() en arrays.
+  - Array.prototype.toSorted(), toSpliced(), with(), introduciendo métodos inmutables.
+  - Nuevas mejoras en RegExp y Set.
+
+**ECMAScript 2024 (ES15)**:
+  - Set Operations: Métodos como .union(), .intersection(), .difference() y .symmetricDifference() en Set.
+  - Método Array.prototype.group() y groupToMap().
+  - Nuevas mejoras en TypedArray.
+
+**ECMAScript 2025 (ES16) (Estimado, basado en tendencias recientes)**:
+  - Expresiones de coincidencia (match statement): Similar a switch, pero más flexible.
+  - Optimización de iteradores en for-await-of.
+  - Mejoras en performance y seguridad para WebAssembly y TC39 Proposals.
+
 **Documentación Oficial**: [ECMAScript](https://tc39.es/ecma262/)
 
 **Otra documentación consultada**: [La especificación ECMAScript](https://lenguajejs.com/javascript/introduccion/ecmascript/)
 
+## 9. Características Destacables
+
+- **Interpretado**: No necesita compilación previa, se ejecuta directamente en el navegador.
+
+- **Multiplataforma**: Compatible con cualquier sistema operativo.
+
+- **Asíncrono**: setTimeout, fetch, async/await permiten manejar eventos sin bloquear la ejecución.
+
+- **Flexible**: Se usa tanto en frontend como en backend.
+
+- **Comunidad Activa**: Uno de los lenguajes con mayor cantidad de repositorios en GitHub.
+
+**Documentación Oficial**: [JavaScript en MDN]()
+
+## 10. Enlaces Externos
+
+- **Documentación Oficial**: [MDN JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+- **Tutoriales Gratuitos**: [JavaScript.info](https://javascript.info/)
+
+- **Comunidad**: [r/javascript en Reddit](https://www.reddit.com/r/javascript/)
+
+- **Eventos**: [JSConf](https://jsconf.com/)
