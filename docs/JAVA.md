@@ -16,7 +16,6 @@ Java fue creado por **James Gosling** y su equipo en **Sun Microsystems** a prin
 
 ---
 
-
 ## 2. Campo de Aplicación
 Java es un pilar en la industria tecnológica, utilizado en:
 
