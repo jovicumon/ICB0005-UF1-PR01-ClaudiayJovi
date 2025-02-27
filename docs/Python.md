@@ -1,4 +1,4 @@
-# Python: Un Lenguaje Versátil y Poderoso
+# Python: Un Lenguaje Versátil y Poderoso (Jose Vicente Cucarella Montell)
 
 ## 1. Historia del Lenguaje
 Python fue creado por **Guido van Rossum** a finales de los años 80 y lanzado por primera vez en 1991. Su diseño prioriza la legibilidad del código y la productividad del programador. El nombre "Python" fue inspirado por el grupo de comedia británico **Monty Python**.
