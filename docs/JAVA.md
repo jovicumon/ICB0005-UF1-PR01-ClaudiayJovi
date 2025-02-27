@@ -95,3 +95,38 @@ Java es un pilar en la industria tecnológica, utilizado en:
 - **Vert.x** ([Sitio Oficial](https://vertx.io/)): Framework reactivo para aplicaciones de alto rendimiento.
 
 ---
+
+## 7. Empresas e Instituciones Clave
+- **Oracle Corporation**: Mantiene Java SE y lidera su desarrollo.
+- **Eclipse Foundation**: Gestiona **Jakarta EE** (antes Java EE) y herramientas como Eclipse IDE.
+- **Apache Software Foundation**: Desarrolla proyectos clave como **Apache Tomcat** y **Maven**.
+
+**Documentación Oficial**: [Java en Oracle](https://www.oracle.com/java/)
+
+---
+
+## 8. Licencias y Versiones
+- **OpenJDK**: Implementación de código abierto bajo licencia GPL.
+- **Oracle JDK**: Versión comercial con soporte empresarial (requiere licencia para uso en producción).
+- **Adoptium** ([Sitio Oficial](https://adoptium.net/)): Proporciona builds gratuitos y compatibles de OpenJDK.
+
+**Documentación Oficial**: [Licencias de Java](https://docs.oracle.com/es-ww/iaas/Content/LicenseManager/Concepts/licensemanageroverview.htm)
+
+---
+
+## 9. Características Destacables
+1. **Garbage Collector**: Automatiza la gestión de memoria, eliminando objetos no usados.
+2. **Multiplataforma**: Corre en Windows, Linux, macOS, Raspberry Pi, y más.
+3. **Seguridad**: Incluye un administrador de seguridad para definir políticas de acceso.
+4. **Performance**: La JVM optimiza el código en tiempo de ejecución (JIT Compilation).
+5. **Comunidad**: Más de **12 millones de desarrolladores** en el mundo.
+
+**Documentación Oficial**: [Java SE Features](https://www.oracle.com/es/java/technologies/java-se-glance.html)
+
+---
+
+## 10. Enlaces Externos
+- **Documentación Oficial**: [Java SE Documentation](https://docs.oracle.com/javase/8/docs/)
+- **Tutoriales Gratuitos**: [Java Tutorials by Oracle](https://docs.oracle.com/javase/tutorial/)
+- **Comunidad**: [r/java en Reddit](https://www.reddit.com/r/java/)
+- **Eventos**: [JavaOne Conference](https://www.oracle.com/javaone/)
