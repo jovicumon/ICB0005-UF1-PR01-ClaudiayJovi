@@ -12,6 +12,6 @@ Este proyecto está dedicado a explorar los lenguajes de programación **JAVA**,
    ```bash
    git clone https://github.com/jovicumon/ICB0005-UF1-PR01-ClaudiayJovi.git
 
-*by:*\
-- **Claudia Hernández Colomer**.\
+**by:**
+- **Claudia Hernández Colomer**.
 - **Jose Vicente Cucarella Montell**.
